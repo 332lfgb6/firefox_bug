@@ -1,24 +1,9 @@
-# firefox_bug
+Swipe up the screen to hide the Firefox mobile address bar, and the text at the bottom of the login div is gone.
 
-## Project setup
-```
-yarn install
-```
+#### before swiping up:
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![image-20220223171228979](imgs/README/image-20220223171228979.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+#### after swiping up
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image-20220223171249432](imgs/README/image-20220223171249432.png)
